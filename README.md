@@ -10,6 +10,4 @@ Full-stack developer from Jordan. I build backends with **Java & Spring Boot** a
 - [RAG Document Q&A](https://github.com/alaaalasrawi/rag-document-qa-spring-boot): ask questions about your PDFs with Spring Boot + LLMs
 - [Achievement Hub](https://github.com/alaaalasrawi/REPO-NAME): graduation project
 
-📫 [LinkedIn](https://www.linkedin.com/in/alaaalasrawi/) 
-
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alaaalasrawi&layout=compact&theme=tokyonight)
